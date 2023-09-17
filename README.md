@@ -1,1 +1,1 @@
-# leaf_disease_prediction
+# Plant 🌱 Disease 🐛 Detection 🔎
